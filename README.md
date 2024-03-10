@@ -2,6 +2,7 @@
 
 Ce projet vise à construire une pipeline de machine learning complète pour prédire les indicateurs de 
 santé liés au diabète à partir du jeu de données "Diabetes Health Indicators Dataset" trouvé sur Kaggle.
+![Machine Learning Pipeline](./artefacts/ml_pipeline.png)
 
 ## Objectif
 
